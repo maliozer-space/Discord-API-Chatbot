@@ -20,7 +20,7 @@
     "googleapis": "^32.0.0",
     "jimp": "^0.6.4",
     "moby": "^1.1.2",
-    "node-fetch": "^2.1.2",
+    "node-fetch": "^2.6.1",
     "request": "^2.87.0",
     "sqlite": "^3.0.3"
   }
